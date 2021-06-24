@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=mertcetin91&show_icons=true&theme=tokyonight" align='right' width="40%">
+
 ## Hi there :wave:
 Thomas here. I'm a software engineer, interested in everything but my speciality is web applications. Also working as instructor at [Clarusway](https://clarusway.com/) and as software engineer at [SOMEWHERE ELSE](https://somewhere.com/) 
 <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="react-native" width=200 height=200 align="right">
